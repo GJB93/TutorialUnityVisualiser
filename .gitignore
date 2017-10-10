@@ -32,7 +32,13 @@ sysinfo.txt
 *.unitypackage
 
 # Licensed files
-*.mp3
 *.wav
-*.FLAC
-*.meta
+*.wav.meta
+*.ogg
+*.ogg.meta
+*.mp3
+*.mp3.meta
+*.tga
+*.tga.meta
+*.psd
+*.psd.meta
