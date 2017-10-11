@@ -18,7 +18,7 @@ public class SoundVisual : MonoBehaviour
     public float maxVisualScale = 25.0f;
     public float visualModifier = 50.0f;
     public float visualiserSmoothSpeed = 10.0f;
-    public float backgroundSmoothSpeed = 0.5f;
+    public float backgroundSmoothSpeed = 0.2f;
     public float keepPercentage = 0.5f;
     public int amtVisual = 64;
     public int dbCap = 40;
